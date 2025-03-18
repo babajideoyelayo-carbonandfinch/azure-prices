@@ -1,0 +1,43 @@
+name: Update Azure Prices
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs at midnight UTC daily
+  push:
+    branches:
+      - main  # Runs on commit to main
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Fetches the repository
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"  # Use latest Python version
+
+      - name: Install Dependencies
+        run: pip install requests  # Ensure 'requests' is installed
+
+      - name: Run Python Script
+        run: python fetch_azure_prices.py  # Executes your script
+
+      - name: Check for Changes
+        run: |
+          git diff --exit-code || echo "Changes detected"
+        id: check_diff
+        continue-on-error: true
+
+      - name: Commit and Push Changes
+        if: steps.check_diff.outcome == 'failure'  # Only commit if there are changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add azure_prices.json
+          git commit -m "🔄 Auto-update Azure prices (Daily Sync)"
+          git push

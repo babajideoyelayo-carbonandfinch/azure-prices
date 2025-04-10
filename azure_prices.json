@@ -4670,6 +4670,7 @@
     "armRegionName": "indonesiacentral",
     "location": "ID Central",
     "effectiveStartDate": "2025-02-01T00:00:00Z",
+    "effectiveEndDate": "2025-04-30T23:59:00Z",
     "meterId": "0013865a-db4e-554f-bdcd-f3715a0ebb06",
     "meterName": "Zone Redundancy vCore",
     "productId": "DZH318Z0B17K",

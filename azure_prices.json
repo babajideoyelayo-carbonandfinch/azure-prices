@@ -14961,6 +14961,7 @@
     "armRegionName": "australiacentral",
     "location": "AU Central",
     "effectiveStartDate": "2025-05-01T00:00:00Z",
+    "effectiveEndDate": "2025-06-30T23:59:00Z",
     "meterId": "0039deee-9729-5115-a989-5d3f02c285d3",
     "meterName": "Storage GP Accelerated Logs",
     "productId": "DZH318Z0DCQ4",

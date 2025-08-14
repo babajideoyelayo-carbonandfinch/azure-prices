@@ -1018,7 +1018,7 @@
     "unitOfMeasure": "1 Hour",
     "type": "Consumption",
     "isPrimaryMeterRegion": true,
-    "armSkuName": "Azure_Database_for_PostgreSQL_Flexible_Server_Memory_Optimized_Edsv5_Series_Compute_64_vCore"
+    "armSkuName": "Standard_E64ds_v5"
   },
   {
     "currencyCode": "USD",

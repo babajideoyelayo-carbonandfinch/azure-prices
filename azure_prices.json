@@ -7544,7 +7544,7 @@
     "unitOfMeasure": "1 Hour",
     "type": "Consumption",
     "isPrimaryMeterRegion": true,
-    "armSkuName": "P5mv4"
+    "armSkuName": "Azure_App_Service_Premium_v4_Plan_Linux_P5mv4"
   },
   {
     "currencyCode": "USD",

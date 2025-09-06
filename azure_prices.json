@@ -21747,7 +21747,7 @@
     "unitOfMeasure": "1 Hour",
     "type": "Consumption",
     "isPrimaryMeterRegion": true,
-    "armSkuName": "Azure_Redis_Cache_General_Purpose_B20"
+    "armSkuName": "Azure_Managed_Redis_Balanced_B20"
   },
   {
     "currencyCode": "USD",

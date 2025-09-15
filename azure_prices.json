@@ -12476,6 +12476,7 @@
     "armRegionName": "canadaeast",
     "location": "CA East",
     "effectiveStartDate": "2025-09-01T00:00:00Z",
+    "effectiveEndDate": "2025-09-30T23:59:00Z",
     "meterId": "002dbcf9-57cb-535f-88a0-7a3079c533e6",
     "meterName": "E2ads v5 Spot",
     "productId": "DZH318Z093X0",

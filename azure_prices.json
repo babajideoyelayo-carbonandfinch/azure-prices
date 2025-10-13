@@ -14171,6 +14171,7 @@
     "armRegionName": "",
     "location": "",
     "effectiveStartDate": "2024-07-01T00:00:00Z",
+    "effectiveEndDate": "2025-11-30T23:59:00Z",
     "meterId": "00342920-0caf-5d16-99b5-d77a142aff50",
     "meterName": "192-vCPU VM License",
     "productId": "DZH318Z0BJRB",

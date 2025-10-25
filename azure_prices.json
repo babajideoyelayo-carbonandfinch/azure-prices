@@ -5460,6 +5460,7 @@
     "armRegionName": "westeurope",
     "location": "EU West",
     "effectiveStartDate": "2025-10-01T00:00:00Z",
+    "effectiveEndDate": "2025-10-31T23:59:00Z",
     "meterId": "0015a333-888a-5502-9465-8783f1a6dad4",
     "meterName": "D2ls v5 Spot",
     "productId": "DZH318Z08M9K",

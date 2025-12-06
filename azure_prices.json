@@ -11500,18 +11500,18 @@
     "location": "ES Central",
     "effectiveStartDate": "2025-08-01T00:00:00Z",
     "meterId": "0029b2bf-6607-56b5-908a-2c77b338d3ea",
-    "meterName": "GPT 5 Rsng outpt Glbl 1M Tokens",
+    "meterName": "GPT 5 outpt Glbl 1M Tokens",
     "productId": "DZH318Z0T9WD",
     "skuId": "DZH318Z0T9WD/00BT",
     "productName": "Azure OpenAI GPT5",
-    "skuName": "GPT 5 Rsng outpt Glbl",
+    "skuName": "GPT 5 outpt Glbl",
     "serviceName": "Cognitive Services",
     "serviceId": "DZH31600VF1F",
     "serviceFamily": "AI + Machine Learning",
     "unitOfMeasure": "1M",
     "type": "Consumption",
     "isPrimaryMeterRegion": true,
-    "armSkuName": "GPT 5 Rsng outpt Glbl"
+    "armSkuName": "GPT 5 outpt Glbl"
   },
   {
     "currencyCode": "USD",

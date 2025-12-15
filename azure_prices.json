@@ -19245,6 +19245,7 @@
     "armRegionName": "southindia",
     "location": "IN South",
     "effectiveStartDate": "2025-12-01T00:00:00Z",
+    "effectiveEndDate": "2025-12-31T23:59:00Z",
     "meterId": "0041df69-e5f7-547f-9be3-3249e0533c08",
     "meterName": "Standard_M96bds_2_v3 Spot",
     "productId": "DZH318Z0FRGC",

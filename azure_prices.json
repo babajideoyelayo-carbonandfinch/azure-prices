@@ -2730,8 +2730,8 @@
   {
     "currencyCode": "USD",
     "tierMinimumUnits": 0.0,
-    "retailPrice": 1.457,
-    "unitPrice": 1.457,
+    "retailPrice": 0.886,
+    "unitPrice": 0.886,
     "armRegionName": "southcentralus",
     "location": "US South Central",
     "effectiveStartDate": "2023-10-01T00:00:00Z",
@@ -8807,8 +8807,8 @@
   {
     "currencyCode": "USD",
     "tierMinimumUnits": 0.0,
-    "retailPrice": 3.021,
-    "unitPrice": 3.021,
+    "retailPrice": 2.147,
+    "unitPrice": 2.147,
     "armRegionName": "switzerlandwest",
     "location": "CH West",
     "effectiveStartDate": "2023-10-01T00:00:00Z",

@@ -2239,8 +2239,8 @@
   {
     "currencyCode": "USD",
     "tierMinimumUnits": 0.0,
-    "retailPrice": 3.5204,
-    "unitPrice": 3.5204,
+    "retailPrice": 2.86,
+    "unitPrice": 2.86,
     "armRegionName": "eastus2",
     "location": "US East 2",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
@@ -3277,8 +3277,8 @@
   {
     "currencyCode": "USD",
     "tierMinimumUnits": 0.0,
-    "retailPrice": 7.0276,
-    "unitPrice": 7.0276,
+    "retailPrice": 6.2616,
+    "unitPrice": 6.2616,
     "armRegionName": "eastus",
     "location": "US East",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
@@ -3299,8 +3299,8 @@
   {
     "currencyCode": "USD",
     "tierMinimumUnits": 0.0,
-    "retailPrice": 4.0836,
-    "unitPrice": 4.0836,
+    "retailPrice": 3.3176,
+    "unitPrice": 3.3176,
     "armRegionName": "eastus",
     "location": "US East",
     "effectiveStartDate": "2026-04-01T00:00:00Z",

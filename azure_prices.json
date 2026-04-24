@@ -7641,7 +7641,7 @@
     "armRegionName": "koreasouth",
     "location": "KR South",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0016e002-4f55-5630-b8cf-7bd3cad2c6cf",
+    "meterId": "d16c80fa-fa71-4cc8-94f3-747978f8046f",
     "meterName": "Hot - 10 PB GRS Data Stored",
     "productId": "DZH318XZM2XZ",
     "skuId": "DZH318XZM2XZ/02KQ",
@@ -7652,7 +7652,7 @@
     "serviceFamily": "Storage",
     "unitOfMeasure": "1 GB/Month",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Hot_GRS_Data_Stored_10 Pb"
   },
   {
@@ -14824,7 +14824,7 @@
     "armRegionName": "northeurope",
     "location": "EU North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002d665e-91c4-587e-a6b7-115645d01b06",
+    "meterId": "580821c7-79b7-48d0-b44f-3f5398418af2",
     "meterName": "Cool - 10 PB RA-GRS Data Stored",
     "productId": "DZH318XZM2XZ",
     "skuId": "DZH318XZM2XZ/01MP",
@@ -14835,7 +14835,7 @@
     "serviceFamily": "Storage",
     "unitOfMeasure": "1 GB/Month",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Cool_RA-GRS_Data_Stored_10 Pb"
   },
   {

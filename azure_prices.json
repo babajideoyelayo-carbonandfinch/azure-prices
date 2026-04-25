@@ -651,7 +651,7 @@
     "armRegionName": "norwaywest",
     "location": "NO West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00015909-fa51-5493-a81e-40e1b5bfe4e3",
+    "meterId": "cda2bbb0-b152-5027-91d1-28cbcce1bdc6",
     "meterName": "E96as v6",
     "productId": "DZH318XZM2FB",
     "skuId": "DZH318XZM2FB/00FS",
@@ -662,7 +662,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E96as_v6"
   },
   {
@@ -1740,7 +1740,7 @@
     "armRegionName": "brazilsoutheast",
     "location": "BR Southeast",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00050e0b-a550-5094-b70d-e59b4b4ad459",
+    "meterId": "c0867ffe-ae13-5a76-b00b-c116332bd3dc",
     "meterName": "E48d v4",
     "productId": "DZH318XZM2D7",
     "skuId": "DZH318XZM2D7/007G",
@@ -1751,7 +1751,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E48d_v4"
   },
   {
@@ -1807,7 +1807,7 @@
     "armRegionName": "westus2",
     "location": "US West 2",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0005247f-8ed8-59d4-847c-046dfad07ce2",
+    "meterId": "2d687cc0-6f86-5f60-8440-f93a59e4bb7d",
     "meterName": "E8s v5",
     "productId": "DZH318XZM2M2",
     "skuId": "DZH318XZM2M2/00PS",
@@ -1818,7 +1818,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E8s_v5"
   },
   {
@@ -2250,7 +2250,7 @@
     "armRegionName": "centralindia",
     "location": "IN Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0006f86c-eb60-5dbf-87a9-da05adc12a25",
+    "meterId": "20b39eec-1203-5171-a1ea-daf46acf5745",
     "meterName": "D32ls v6",
     "productId": "DZH318XZM2F4",
     "skuId": "DZH318XZM2F4/0093",
@@ -2261,7 +2261,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D32ls_v6"
   },
   {
@@ -2827,7 +2827,7 @@
     "armRegionName": "japaneast",
     "location": "JA East",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00087edf-51c4-5ff8-bc03-6c5634b9c927",
+    "meterId": "81b110ab-dde0-56dc-b54e-ebe9114c54f4",
     "meterName": "E16as v5",
     "productId": "DZH318XZM2BQ",
     "skuId": "DZH318XZM2BQ/010S",
@@ -2838,7 +2838,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E16as_v5"
   },
   {
@@ -3998,7 +3998,7 @@
     "armRegionName": "koreasouth",
     "location": "KR South",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000ba92b-14bb-5219-adf4-66a4e1cee70c",
+    "meterId": "acdcc606-66ba-589f-8a56-2703f7d6c281",
     "meterName": "E112ibds v5",
     "productId": "DZH318XZM2BV",
     "skuId": "DZH318XZM2BV/00H5",
@@ -4009,7 +4009,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E112ibds_v5"
   },
   {
@@ -4043,7 +4043,7 @@
     "armRegionName": "uksouth",
     "location": "UK South",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000bd5fb-9b85-5224-91d3-fb8c9b4c323e",
+    "meterId": "8cccc8ac-e17c-56da-89ac-bbc5618f4e49",
     "meterName": "D64a v4",
     "productId": "DZH318XZM2DL",
     "skuId": "DZH318XZM2DL/005H",
@@ -4054,7 +4054,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D64a_v4"
   },
   {
@@ -4134,7 +4134,7 @@
     "armRegionName": "brazilsoutheast",
     "location": "BR Southeast",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000c27cd-9ce6-5c7a-b136-d2a2c433b35b",
+    "meterId": "e836968e-b8fa-5513-a277-472d2061ed8c",
     "meterName": "EC32asv6",
     "productId": "DZH318XZM2DN",
     "skuId": "DZH318XZM2DN/003W",
@@ -4145,7 +4145,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_EC32as_v6"
   },
   {
@@ -4157,7 +4157,7 @@
     "armRegionName": "uksouth",
     "location": "UK South",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000c3216-02d8-59ef-8aa1-845e7cfcd813",
+    "meterId": "e7e73399-1222-5515-86a5-be5ddc0bc7b8",
     "meterName": "D48lds v6",
     "productId": "DZH318XZM2FN",
     "skuId": "DZH318XZM2FN/00DG",
@@ -4168,7 +4168,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D48lds_v6"
   },
   {
@@ -4358,7 +4358,7 @@
     "armRegionName": "australiaeast",
     "location": "AU East",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000caaaf-a68e-57f7-a985-608c797cc965",
+    "meterId": "686d4721-e9c0-591b-bf75-59f6b277de4c",
     "meterName": "E64s v4",
     "productId": "DZH318XZM2DB",
     "skuId": "DZH318XZM2DB/008T",
@@ -4369,7 +4369,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E64s_v4"
   },
   {
@@ -4381,7 +4381,7 @@
     "armRegionName": "westindia",
     "location": "IN West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000cae64-c96e-5366-b7e9-e69f180cdfe8",
+    "meterId": "f40987aa-7b55-53c0-95d8-fee0ab7aa5a4",
     "meterName": "D64ls v5",
     "productId": "DZH318XZM2D8",
     "skuId": "DZH318XZM2D8/00F6",
@@ -4392,7 +4392,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D64ls_v5"
   },
   {
@@ -4826,7 +4826,7 @@
     "armRegionName": "polandcentral",
     "location": "PL Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "000e3854-a753-5e28-95b1-fce83857f456",
+    "meterId": "3503dc09-6806-5fb7-a4fb-c274b9ae8986",
     "meterName": "D64ps v6",
     "productId": "DZH318XZM2DZ",
     "skuId": "DZH318XZM2DZ/0096",
@@ -4837,7 +4837,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D64ps_v6"
   },
   {
@@ -6395,7 +6395,7 @@
     "armRegionName": "ukwest",
     "location": "UK West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0013b122-cb5d-5c66-b5e1-3e9a90aeff45",
+    "meterId": "c327c781-8884-5d9a-8059-abee62119670",
     "meterName": "E8bds v5",
     "productId": "DZH318XZM2BV",
     "skuId": "DZH318XZM2BV/001F",
@@ -6406,7 +6406,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E8bds_v5"
   },
   {
@@ -8351,7 +8351,7 @@
     "armRegionName": "newzealandnorth",
     "location": "NZ North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0018d58d-f7a0-594d-ba41-d8aafc3594d4",
+    "meterId": "b9ecf9ea-6740-530c-ba20-1b49ca86175e",
     "meterName": "E4-2s v4",
     "productId": "DZH318XZM2DB",
     "skuId": "DZH318XZM2DB/00MJ",
@@ -8362,7 +8362,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E4-2s_v4"
   },
   {
@@ -12295,7 +12295,7 @@
     "armRegionName": "germanynorth",
     "location": "DE North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00256dbc-e123-5376-947c-b366b088a2fb",
+    "meterId": "42e41ee1-a10e-5f78-a283-f4327416d088",
     "meterName": "E192ids v6",
     "productId": "DZH318XZM2M3",
     "skuId": "DZH318XZM2M3/009H",
@@ -12306,7 +12306,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E192ids_v6"
   },
   {
@@ -12891,7 +12891,7 @@
     "armRegionName": "germanynorth",
     "location": "DE North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00283811-723c-517c-a901-be2483ebcbe6",
+    "meterId": "5637ec4b-7c48-506c-b124-98189c1b524d",
     "meterName": "EC16adsv6",
     "productId": "DZH318XZM2FR",
     "skuId": "DZH318XZM2FR/008B",
@@ -12902,7 +12902,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_EC16ads_v6"
   },
   {
@@ -13134,7 +13134,7 @@
     "armRegionName": "italynorth",
     "location": "IT North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00294e0b-6445-561f-83d7-5c06c02df1da",
+    "meterId": "036f57ec-b7b7-5046-bdf8-ab42a625d83c",
     "meterName": "D64alds v7",
     "productId": "DZH318XZM2DM",
     "skuId": "DZH318XZM2DM/0052",
@@ -13145,7 +13145,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D64alds_v7"
   },
   {
@@ -13201,7 +13201,7 @@
     "armRegionName": "norwaywest",
     "location": "NO West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002963fc-103b-562d-b0ea-45be8c224aa5",
+    "meterId": "47cd4626-85ff-51fb-bab2-60dc97748e16",
     "meterName": "E64-32s v4",
     "productId": "DZH318XZM2DB",
     "skuId": "DZH318XZM2DB/00RP",
@@ -13212,7 +13212,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E64-32s_v4"
   },
   {
@@ -13644,7 +13644,7 @@
     "armRegionName": "canadacentral",
     "location": "CA Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0029f572-6f97-5c93-a2a7-0c0cb6398969",
+    "meterId": "3ce480e7-1673-59e3-8a67-8f20300cc3f9",
     "meterName": "DC16s_v3",
     "productId": "DZH318XZM2DC",
     "skuId": "DZH318XZM2DC/002F",
@@ -13655,7 +13655,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_DC16s_v3"
   },
   {
@@ -13689,7 +13689,7 @@
     "armRegionName": "israelcentral",
     "location": "IL Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002a0836-c9c8-5505-b04a-3c0f16ece353",
+    "meterId": "0e6de527-89f2-5ae3-a599-f9b81d890f6b",
     "meterName": "E48ds v5",
     "productId": "DZH318XZM2FM",
     "skuId": "DZH318XZM2FM/00BS",
@@ -13700,7 +13700,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E48ds_v5"
   },
   {
@@ -13912,7 +13912,7 @@
     "armRegionName": "ukwest",
     "location": "UK West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002a7de4-bb19-5e92-9d99-948acb3217c3",
+    "meterId": "fa4a2ebd-4e34-539a-a668-0791f5e63009",
     "meterName": "E8pds v6",
     "productId": "DZH318XZM2CQ",
     "skuId": "DZH318XZM2CQ/0093",
@@ -13923,7 +13923,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E8pds_v6"
   },
   {
@@ -13979,7 +13979,7 @@
     "armRegionName": "germanynorth",
     "location": "DE North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002aadd9-076c-540d-a558-a9545959e136",
+    "meterId": "6b62430c-52b4-5005-b5c4-11d7ce65d3c4",
     "meterName": "D48d v4",
     "productId": "DZH318XZM2F1",
     "skuId": "DZH318XZM2F1/008Q",
@@ -13990,7 +13990,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D48d_v4"
   },
   {
@@ -14091,7 +14091,7 @@
     "armRegionName": "francecentral",
     "location": "FR Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002ac12f-7af3-5793-bb3d-c44c0af9d79c",
+    "meterId": "ac031538-ed1c-5357-8af4-014764ef5c34",
     "meterName": "E20ds v6",
     "productId": "DZH318XZM2M3",
     "skuId": "DZH318XZM2M3/0093",
@@ -14102,7 +14102,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E20ds_v6"
   },
   {
@@ -14402,7 +14402,7 @@
     "armRegionName": "southcentralus",
     "location": "US South Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002b8384-e896-5620-a2b6-6b14a23cadf3",
+    "meterId": "1ab227ed-3aa5-5a93-a628-05b4369f72ba",
     "meterName": "D128ls v6",
     "productId": "DZH318XZM2F4",
     "skuId": "DZH318XZM2F4/005M",
@@ -14413,7 +14413,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D128ls_v6"
   },
   {
@@ -14691,7 +14691,7 @@
     "armRegionName": "westus",
     "location": "US West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002cf39d-4fea-5db5-8316-c57b5e0355bb",
+    "meterId": "98e68c24-3bbd-57a5-89e2-abd058b87912",
     "meterName": "E16-8ds v6",
     "productId": "DZH318XZM2M3",
     "skuId": "DZH318XZM2M3/00Q6",
@@ -14702,7 +14702,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E16-8ds_v6"
   },
   {
@@ -15093,7 +15093,7 @@
     "armRegionName": "mexicocentral",
     "location": "MX Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "002db18e-3973-54c6-9d75-3ab25dc83ccc",
+    "meterId": "38a6ab88-0f34-5d5a-b60d-3fac441c36dc",
     "meterName": "E128-64s v6",
     "productId": "DZH318XZM2D2",
     "skuId": "DZH318XZM2D2/011S",
@@ -15104,7 +15104,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E128-64s_v6"
   },
   {
@@ -16180,7 +16180,7 @@
     "armRegionName": "swedensouth",
     "location": "SE South",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00309977-0a0b-58de-a4cc-9d321421a086",
+    "meterId": "7e1f650d-27b2-5e98-b4ca-aaf0dd39edf6",
     "meterName": "E64-32s v6",
     "productId": "DZH318XZM2D2",
     "skuId": "DZH318XZM2D2/016F",
@@ -16191,7 +16191,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E64-32s_v6"
   },
   {
@@ -16401,7 +16401,7 @@
     "armRegionName": "brazilsouth",
     "location": "BR South",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0030e219-3876-51d6-b114-88f4cef97254",
+    "meterId": "0d239c7c-26c6-525b-b0ce-55d29841da86",
     "meterName": "D16 v5",
     "productId": "DZH318XZM2LG",
     "skuId": "DZH318XZM2LG/0083",
@@ -16412,7 +16412,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D16_v5"
   },
   {
@@ -16424,7 +16424,7 @@
     "armRegionName": "westus",
     "location": "US West",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00311ad9-0ac3-5a7c-9c90-c1ed0a8c35ed",
+    "meterId": "e0e2f1d8-ecf9-5053-9885-86e760d6cd6f",
     "meterName": "D8a v4",
     "productId": "DZH318XZM2DL",
     "skuId": "DZH318XZM2DL/0017",
@@ -16435,7 +16435,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D8a_v4"
   },
   {
@@ -17063,7 +17063,7 @@
     "armRegionName": "centralus",
     "location": "US Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0032632e-992b-54b3-ac77-b802df6b90b0",
+    "meterId": "32c3e125-55e2-59e3-8375-62d4d6edc6b4",
     "meterName": "E8-2s v4",
     "productId": "DZH318XZM2DB",
     "skuId": "DZH318XZM2DB/00LT",
@@ -17074,7 +17074,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E8-2s_v4"
   },
   {
@@ -17595,7 +17595,7 @@
     "armRegionName": "centralindia",
     "location": "IN Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "0034ab5e-e190-5577-bc32-9ac16118aa0c",
+    "meterId": "023ba212-6307-5d0b-9f9d-0212f5c51ed1",
     "meterName": "D64ls v5",
     "productId": "DZH318XZM2D8",
     "skuId": "DZH318XZM2D8/000D",
@@ -17606,7 +17606,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D64ls_v5"
   },
   {
@@ -18703,7 +18703,7 @@
     "armRegionName": "southcentralus",
     "location": "US South Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00381d81-4304-5593-9bd2-adebf4b8d792",
+    "meterId": "426c9ffb-bd66-5588-aea5-6e0e6ef512ae",
     "meterName": "D2lds v5",
     "productId": "DZH318XZM2L7",
     "skuId": "DZH318XZM2L7/00D8",
@@ -18714,7 +18714,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D2lds_v5"
   },
   {
@@ -19039,7 +19039,7 @@
     "armRegionName": "brazilsoutheast",
     "location": "BR Southeast",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "00392653-a0bd-52bd-8515-13a24f296f9d",
+    "meterId": "cd892f16-8f27-56bd-ad8e-0338a37a6d8d",
     "meterName": "D8ads v5",
     "productId": "DZH318XZR3TH",
     "skuId": "DZH318XZR3TH/00B0",
@@ -19050,7 +19050,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D8ads_v5"
   },
   {
@@ -19084,7 +19084,7 @@
     "armRegionName": "belgiumcentral",
     "location": "BE Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "003977ed-ff67-5384-afa2-ddfba3d6549f",
+    "meterId": "a2af04dd-bcab-53cc-8a49-a17596448e83",
     "meterName": "E48a v4",
     "productId": "DZH318XZM2DQ",
     "skuId": "DZH318XZM2DQ/000H",
@@ -19095,7 +19095,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E48a_v4"
   },
   {
@@ -19749,7 +19749,7 @@
     "armRegionName": "mexicocentral",
     "location": "MX Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "003b5a11-6108-5936-8905-4ce9b483cdf7",
+    "meterId": "e2af9784-1ad1-573f-a2f9-e5ac082722de",
     "meterName": "E2ads v7",
     "productId": "DZH318XZM2DV",
     "skuId": "DZH318XZM2DV/0033",
@@ -19760,7 +19760,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_E2ads_v7"
   },
   {
@@ -20243,7 +20243,7 @@
     "armRegionName": "newzealandnorth",
     "location": "NZ North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "003c275a-13f0-5563-8ba1-8d79cacb06d4",
+    "meterId": "528a7c67-42a5-5e61-86ed-8cf7c0a2ffaa",
     "meterName": "D48as v6",
     "productId": "DZH318XZM2L5",
     "skuId": "DZH318XZM2L5/005H",
@@ -20254,7 +20254,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D48as_v6"
   },
   {
@@ -20398,7 +20398,7 @@
     "armRegionName": "northcentralus",
     "location": "US North Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "003c90c8-a6ce-5177-b180-8e7edc52dfb4",
+    "meterId": "cc902bf2-e517-589e-bd57-99d604cbee91",
     "meterName": "D8a v4",
     "productId": "DZH318XZM2DL",
     "skuId": "DZH318XZM2DL/005P",
@@ -20409,7 +20409,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D8a_v4"
   },
   {
@@ -20689,7 +20689,7 @@
     "armRegionName": "germanywestcentral",
     "location": "DE West Central",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "003cf63e-5a7d-582e-8083-ef43c83779a6",
+    "meterId": "1471c480-b495-5749-97e1-c623a663292d",
     "meterName": "D2alds v6",
     "productId": "DZH318XZM2BT",
     "skuId": "DZH318XZM2BT/0017",
@@ -20700,7 +20700,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_D2alds_v6"
   },
   {
@@ -21316,7 +21316,7 @@
     "armRegionName": "italynorth",
     "location": "IT North",
     "effectiveStartDate": "2026-04-01T00:00:00Z",
-    "meterId": "003e693e-95c8-5fb3-b480-deec305d3129",
+    "meterId": "ade27be0-d58c-541e-8fa0-e22e0bcfe70a",
     "meterName": "ND96isrH200v5",
     "productId": "DZH318XZM2G4",
     "skuId": "DZH318XZM2G4/000S",
@@ -21327,7 +21327,7 @@
     "serviceFamily": "Compute",
     "unitOfMeasure": "1 Hour",
     "type": "Reservation",
-    "isPrimaryMeterRegion": true,
+    "isPrimaryMeterRegion": false,
     "armSkuName": "Standard_ND96isr_H200_v5"
   },
   {

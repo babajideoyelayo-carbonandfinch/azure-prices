@@ -19556,29 +19556,6 @@
   {
     "currencyCode": "USD",
     "tierMinimumUnits": 0.0,
-    "retailPrice": 0.01,
-    "unitPrice": 0.01,
-    "armRegionName": "westeurope",
-    "location": "EU West",
-    "effectiveStartDate": "2026-06-01T00:00:00Z",
-    "effectiveEndDate": "2026-05-31T23:59:00Z",
-    "meterId": "003ab1aa-401d-5d17-a030-79d8bcde0262",
-    "meterName": "I4v4",
-    "productId": "DZH318Z0SK8C",
-    "skuId": "DZH318Z0SK8C/00NH",
-    "productName": "Azure App Service Isolated v4 Plan",
-    "skuName": "I4v4",
-    "serviceName": "Azure App Service",
-    "serviceId": "DZH317GT8G5N",
-    "serviceFamily": "Compute",
-    "unitOfMeasure": "1 Hour",
-    "type": "Consumption",
-    "isPrimaryMeterRegion": true,
-    "armSkuName": "I4v4"
-  },
-  {
-    "currencyCode": "USD",
-    "tierMinimumUnits": 0.0,
     "retailPrice": 6.1454,
     "unitPrice": 6.1454,
     "armRegionName": "westeurope",
@@ -19596,7 +19573,7 @@
     "unitOfMeasure": "1 Hour",
     "type": "Consumption",
     "isPrimaryMeterRegion": true,
-    "armSkuName": "I4v4"
+    "armSkuName": "Azure_App_Service_Isolated_v4_Plan_I4v4"
   },
   {
     "currencyCode": "USD",
@@ -22158,5 +22135,27 @@
     "type": "Consumption",
     "isPrimaryMeterRegion": false,
     "armSkuName": ""
+  },
+  {
+    "currencyCode": "USD",
+    "tierMinimumUnits": 0.0,
+    "retailPrice": 1.536,
+    "unitPrice": 1.536,
+    "armRegionName": "westus2",
+    "location": "US West 2",
+    "effectiveStartDate": "2021-11-01T00:00:00Z",
+    "meterId": "004069b6-ef1c-4d13-987b-66cfd7cb575a",
+    "meterName": "D32a v4/D32as v4",
+    "productId": "DZH318Z0CM2B",
+    "skuId": "DZH318Z0CM2B/002Q",
+    "productName": "Virtual Machines Dav4 Series",
+    "skuName": "D32a v4",
+    "serviceName": "Virtual Machines",
+    "serviceId": "DZH313Z7MMC8",
+    "serviceFamily": "Compute",
+    "unitOfMeasure": "1 Hour",
+    "type": "Consumption",
+    "isPrimaryMeterRegion": true,
+    "armSkuName": "Standard_D32a_v4"
   }
 ]

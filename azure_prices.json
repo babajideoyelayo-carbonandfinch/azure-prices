@@ -7806,7 +7806,7 @@
     "meterName": "vCore",
     "productId": "DZH318Z0DCRZ",
     "skuId": "DZH318Z0DCRZ/004D",
-    "productName": "Az DB for PGSQL Flexible Server Memory Optimized Esv3 Series Compute",
+    "productName": "Azure Database for PostgreSQL Flexible Server Memory Optimized Esv3 Series Compute",
     "skuName": "16 vCore",
     "serviceName": "Azure Database for PostgreSQL",
     "serviceId": "DZH3199QPQTD",

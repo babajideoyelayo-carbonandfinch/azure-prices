@@ -3130,18 +3130,18 @@
     "location": "IL Northwest",
     "effectiveStartDate": "2026-05-01T00:00:00Z",
     "meterId": "00094295-c728-5d99-a45b-92b802cabe64",
-    "meterName": "Fabric Meter 101 Capacity Usage CU",
+    "meterName": "Data Warehouse (Accelerated) Capacity Usage CU",
     "productId": "DZH318Z0KCZ7",
     "skuId": "DZH318Z0KCZ7/193H",
     "productName": "Fabric Capacity",
-    "skuName": "Fabric Meter 101 Capacity Usage",
+    "skuName": "Data Warehouse (Accelerated) Capacity Usage",
     "serviceName": "Microsoft Fabric",
     "serviceId": "DZH31767PK6Z",
     "serviceFamily": "Data",
     "unitOfMeasure": "1 Hour",
     "type": "Consumption",
     "isPrimaryMeterRegion": true,
-    "armSkuName": "Fabric Meter 101"
+    "armSkuName": "Data Warehouse Accelerated"
   },
   {
     "currencyCode": "USD",

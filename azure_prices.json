@@ -5672,7 +5672,6 @@
     "armRegionName": "eastus",
     "location": "US East",
     "effectiveStartDate": "2024-09-01T00:00:00Z",
-    "effectiveEndDate": "2026-06-30T23:59:00Z",
     "meterId": "0011f5c1-c6ee-50c2-9990-2d73251cf1c2",
     "meterName": "Ultra Disk IOPS Provisioned IOPS",
     "productId": "DZH318Z0DCRX",

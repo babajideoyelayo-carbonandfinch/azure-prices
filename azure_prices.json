@@ -4742,6 +4742,7 @@
     "armRegionName": "germanywestcentral",
     "location": "DE West Central",
     "effectiveStartDate": "2026-08-01T00:00:00Z",
+    "effectiveEndDate": "2027-01-31T23:59:00Z",
     "meterId": "000d269a-4478-5c86-930e-743c7026cadf",
     "meterName": "Standard_M64lds_v4 Spot",
     "productId": "DZH318Z0W0N7",
